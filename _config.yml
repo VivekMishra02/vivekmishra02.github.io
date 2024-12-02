@@ -77,14 +77,14 @@ social:
 
 # Site Author
 author:
-  name             : "Rahul Vishwakarma"
-  avatar           : "rahul_headshot.jpeg"
+  name             : "Vivek Kumar Mishra"
+  avatar           : "vivek_headShot.jpeg"
   bio              : 
-  location         : "Los Angeles, CA"
+  location         : "Philadelphia, PA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=F2eTslkAAAAJ&hl=en&oi=ao"
-  email            : "rahuldeo.vishwakarma01@student.csulb.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=BvG76iMAAAAJ&hl=en"
+  email            : "vivekmishraima@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -93,13 +93,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rahvis"
+  github           : "VivekMishra02"
   google_plus      :
   keybase          :
-  instagram        : "rah.vish"
+  instagram        : #"rah.vish"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rahulvishwakarma"
+  linkedin         : "https://www.linkedin.com/in/vivek-mishra-5a93b568/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
