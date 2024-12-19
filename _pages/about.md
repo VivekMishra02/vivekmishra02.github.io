@@ -46,6 +46,16 @@ Vivek Mishra(IEEE Senior Member) is a technology professional and Associate Soft
   </tr>
 
   <tr>
+    <td style="white-space: nowrap;">Dec 2024</td>
+    <td>News<strong>Published</strong> for <a href="https://firstindia.co.in/article-view/jaipur/08122024/20987">First India™ </a> </td>
+  </tr>
+
+  <tr>
+    <td style="white-space: nowrap;">Dec 2024</td>
+    <td>News<strong>Published</strong> for <a href="https://epaper.patrika.com/article/JaipurCity?OrgId=812d22635f4&eid=20&imageview=0&device=desktop">Rajasthan Patrika™ </a> </td>
+  </tr>
+
+  <tr>
     <td style="white-space: nowrap;">Nov 2024</td>
     <td>Hybrid Lecture <strong>Bridging Industry and Academia for Computer Science™</strong> for <a href="https://www.linkedin.com/posts/anand-college-of-engineering_anandice-industryknowledge-hybridlectureseries-activity-7265909167196954624-uyYe/?utm_source=share&utm_medium=member_desktop"> Anand International College of Engineering, Jaipur, India™ </a> </td>
   </tr>
@@ -56,17 +66,17 @@ Vivek Mishra(IEEE Senior Member) is a technology professional and Associate Soft
   </tr>
 
   <tr>
-    <td style="white-space: nowrap;">October 2024</td>
+    <td style="white-space: nowrap;">Oct 2024</td>
     <td>Mentored <strong>Ruhealth Hack 2024</strong> <a href="https://ruhealthhack.com/mentors"> Rutgers University New Brunswick, NJ </a> </td>
   </tr>
 
   <tr>
-    <td style="white-space: nowrap;">October 2024</td>
+    <td style="white-space: nowrap;">Oct 2024</td>
     <td>Judged <strong>Claro 2024</strong> <a href="https://drive.google.com/file/d/1wpvXC6ORgOUYGtTh3NP7iQN5vqMndmlK/view?usp=sharing"> Claro Awards </a> </td>
   </tr>
 
   <tr>
-    <td style="white-space: nowrap;">September 2024</td>
+    <td style="white-space: nowrap;">Sep 2024</td>
     <td>Judged <strong>PennApps 2024</strong> <a href="https://drive.google.com/file/d/1vLRt3DHsiAzqZ0STqk87B8vL7o_qp33g/view?usp=drive_link"> University of Pennsylvania, Philadelphia, PA </a> </td>
   </tr>
 
