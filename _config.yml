@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rahul Vishwakarma"
+title                    : "Vivek Mishra"
 title_separator          : "-"
-name                     : &name "Rahul Vishwakarma"
+name                     : &name "Vivek Mishra"
 description              : &description "personal description"
 url                      : https://rahvis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
