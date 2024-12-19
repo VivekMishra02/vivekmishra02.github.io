@@ -9,5 +9,5 @@ I'm always happy to connect!
 
 ------
 
-* E-mail: rahul.vishwakarma [at] ieee.org
-* Contact: +1 (562) 538-6577
+* E-mail: vivekmishra [at] ieee.org
+* Contact: +1 (562) 286-4529
