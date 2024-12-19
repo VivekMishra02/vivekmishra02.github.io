@@ -38,15 +38,6 @@ tr:nth-child(even) {
 
 </table>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <img src="/images/csulb2.jpeg" alt="Image 1" style="width: 48%;">
-    <img src="/images/csulb1.jpeg" alt="Image 2" style="width: 48%;">
-    <img src="/images/csulb3.jpeg" alt="Image 3" style="width: 48%;">
-    <img src="/images/csulb4.jpeg" alt="Image 4" style="width: 48%;">
-    <img src="/images/dell.jpeg" alt="Image 3" style="width: 48%;">
-    <img src="/images/dell2.jpeg" alt="Image 4" style="width: 48%;">
-</div>
-
 
 <h2>Membership</h2>
 
