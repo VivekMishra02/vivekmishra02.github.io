@@ -42,7 +42,7 @@ Vivek Mishra(IEEE Senior Member) is a technology professional and Associate Soft
 
   <tr>
     <td style="white-space: nowrap;">Dec 2024</td>
-    <td>Quoted by <strong>DICE Insights <a href="https://drive.google.com/file/d/1qen991jDND1nh9HVQ9ndeWw9K0Ifkzfs/view?usp=drive_link"> </strong> Database Administrators and AI: What to Know, How to Grow </a> </td>
+    <td>Quoted by <strong>DICE Insights</strong> <a href="https://www.dice.com/career-advice/database-administrators-and-ai-what-to-know-how-to-grow" target="_blank">  Database Administrators and AI: What to Know, How to Grow </a> </td>
   </tr>
 
   <tr>
