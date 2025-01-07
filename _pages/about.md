@@ -47,7 +47,7 @@ Vivek Mishra(IEEE Senior Member) is a technology professional and Associate Soft
 
   <tr>
     <td style="white-space: nowrap;">Jan 2025</td>
-    <td>Featured on <strong>IEEE Impact Creator</strong> about Vivek in <a href="https://transmitter.ieee.org/author/vivekmishra/" target="_blank">IEEE Transmitter </a> </td>
+    <td>Featured as <strong>IEEE Impact Creator</strong> on <a href="https://transmitter.ieee.org/author/vivekmishra/" target="_blank">IEEE Transmitter</a> </td>
   </tr>
 
   <tr>
