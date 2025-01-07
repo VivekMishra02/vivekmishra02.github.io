@@ -42,6 +42,16 @@ Vivek Mishra(IEEE Senior Member) is a technology professional and Associate Soft
 
   <tr>
     <td style="white-space: nowrap;">Dec 2024</td>
+    <td>Quoted by <strong>DICE Insights <a href="https://drive.google.com/file/d/1qen991jDND1nh9HVQ9ndeWw9K0Ifkzfs/view?usp=drive_link"> </strong> Database Administrators and AI: What to Know, How to Grow </a> </td>
+  </tr>
+
+  <tr>
+    <td style="white-space: nowrap;">Dec 2024</td>
+    <td>Featured on <strong>IEEE Impact Creator</strong> about Vivek in <a href="https://transmitter.ieee.org/author/vivekmishra/">IEEE Transmitter </a> </td>
+  </tr>
+
+  <tr>
+    <td style="white-space: nowrap;">Dec 2024</td>
     <td>News <strong>Published </strong> about Vivek in <a href="https://drive.google.com/file/d/1qen991jDND1nh9HVQ9ndeWw9K0Ifkzfs/view?usp=drive_link">Dainik Bhaskar™ </a> </td>
   </tr>
 
