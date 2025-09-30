@@ -47,12 +47,12 @@ Vivek Mishra(IEEE Senior Member) is a technology professional and Associate Soft
 
 <tr>
     <td style="white-space: nowrap;">Aug 2025</td>
-    <td>Reviewed NeurIPS 2025 Position Paper Track <strong> NeurIPS </strong> <a href="https://drive.google.com/drive/folders/1FyR_rcIrx2GgY7TdImIouKB_LYA38RH0?usp=drive_link" target="_blank">  NeurIPS </a> </td>
+    <td>Reviewed NeurIPS 2025 Position Paper Track <a href="https://drive.google.com/drive/folders/1FyR_rcIrx2GgY7TdImIouKB_LYA38RH0?usp=drive_link" target="_blank">  NeurIPS </a> </td>
   </tr>
 
   <tr>
     <td style="white-space: nowrap;">Feb 2025</td>
-    <td>Reviewed ICLR Paper <strong> ICLR </strong> <a href="https://drive.google.com/drive/folders/1FyR_rcIrx2GgY7TdImIouKB_LYA38RH0?usp=drive_link" target="_blank">  CLR </a> </td>
+    <td>Reviewed ICLR Paper <a href="https://drive.google.com/drive/folders/1FyR_rcIrx2GgY7TdImIouKB_LYA38RH0?usp=drive_link" target="_blank">  ICLR </a> </td>
   </tr>
 
   <tr>
