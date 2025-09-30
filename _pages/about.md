@@ -40,6 +40,21 @@ Vivek Mishra(IEEE Senior Member) is a technology professional and Associate Soft
 
 <table>
 
+<tr>
+    <td style="white-space: nowrap;">Sep 2025</td>
+    <td>Quoted by award winning journalist<strong> Mary K. Pratt in TechTarget </strong> <a href="https://www.techtarget.com/sustainability/feature/Generative-AIs-sustainability-problems-explained" target="_blank">  Generative AI's environmental impact explained </a> </td>
+  </tr>
+
+<tr>
+    <td style="white-space: nowrap;">Aug 2025</td>
+    <td>Reviewed NeurIPS 2025 Position Paper Track <strong> NeurIPS </strong> <a href="https://drive.google.com/drive/folders/1FyR_rcIrx2GgY7TdImIouKB_LYA38RH0?usp=drive_link" target="_blank">  NeurIPS </a> </td>
+  </tr>
+
+  <tr>
+    <td style="white-space: nowrap;">Feb 2025</td>
+    <td>Reviewed ICLR Paper <strong> ICLR </strong> <a href="https://drive.google.com/drive/folders/1FyR_rcIrx2GgY7TdImIouKB_LYA38RH0?usp=drive_link" target="_blank">  CLR </a> </td>
+  </tr>
+
   <tr>
     <td style="white-space: nowrap;">Feb 2025</td>
     <td>Quoted by award winning journalist<strong> Mary K. Pratt in TechTarget </strong> <a href="https://www.techtarget.com/searchenterpriseai/feature/The-future-of-generative-AI-Trends-to-follow" target="_blank">  The future of generative AI: 10 trends to follow in 2025 </a> </td>
