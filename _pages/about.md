@@ -47,7 +47,7 @@ Vivek Mishra(IEEE Senior Member) is a technology professional and Associate Soft
 
 <tr>
     <td style="white-space: nowrap;">Aug 2025</td>
-    <td>Quoted by filmamker and journalist<strong> Nathan Eddy in VKTR by <a href= "https://www.simplermedia.com/" target="_blank"> Simpler Media Group</strong> </a> <a href="https://www.vktr.com/ai-technology/do-ai-coding-tools-really-increase-developer-productivity-studies-say-no/" target="_blank"> Do AI Coding Tools Really Increase Developer Productivity? Studies Say No </a> </td>
+    <td>Quoted by filmamker and journalist<strong> Nathan Eddy in VKTR by <a href= "https://www.simplermedia.com/" target="_blank"> Simpler Media Group </a> <a href="https://www.vktr.com/ai-technology/do-ai-coding-tools-really-increase-developer-productivity-studies-say-no/" target="_blank"> Do AI Coding Tools Really Increase Developer Productivity </a> </td>
 </tr>
 
 <tr>
