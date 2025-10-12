@@ -30,8 +30,8 @@ tr:nth-child(even) {
 
 <body>
 <!-- Clickable image that links to another page -->
-  <a href="https://www.example.com" target="_blank">
-    <img src="images/book.png/300x200" alt="Example Image" style="width:300px;height:auto;">
+  <a href="https://a.co/d/gB94RwS" target="_blank">
+    <img src="/images/book.png" alt="Book Image" style="width:300px;height:auto;">
   </a>
 
   <!-- Text content with description -->
@@ -41,5 +41,6 @@ tr:nth-child(even) {
     Based on my own experience learning and working with them, I wanted to create something
     that makes these concepts clearer and more accessible.
   </p>
+  <img src="/images/book.png">
 
 </body>
