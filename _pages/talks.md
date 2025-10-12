@@ -28,8 +28,15 @@ tr:nth-child(even) {
 
 <body>
 <table>
+
   <tr>
-    <td>Hybrid Lecture Series of Bridging Industry and Academia for our Computer Science aspirants at Anand International College of Engineering, Jaipur 2024</td>
+    <td style="white-space: nowrap;">April 2025</td>
+    <td>Hybrid Lecture <strong> Faculty Development Programme on "Advanced Trends & Applications in Artificial Intelligence & Machine Learning" from 14th to 18th April, 2025</strong> for <a href="https://www.linkedin.com/posts/ai-machinelearning-fdp2025-ugcPost-7316862943181033472-UtR2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA5MBBEBT2_IbHsfj2eSfXiW5lqxKeCrgaM" target="_blank"> Anand International College of Engineering, Jaipur, India™ </a> </td>
+  </tr>
+
+  <tr>
+    <td style="white-space: nowrap;">Nov 2024</td>
+    <td>Hybrid Lecture <strong>Bridging Industry and Academia for Computer Science™</strong> for <a href="https://www.linkedin.com/posts/anand-college-of-engineering_anandice-industryknowledge-hybridlectureseries-activity-7265909167196954624-uyYe/?utm_source=share&utm_medium=member_desktop" target="_blank"> Anand International College of Engineering, Jaipur, India™ </a> </td>
   </tr>
   
 </table>
