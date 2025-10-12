@@ -29,10 +29,7 @@ tr:nth-child(even) {
 
 
 <body>
-<!-- Clickable image that links to another page -->
-  <a href="https://a.co/d/gB94RwS" target="_blank">
-    <img src="/images/book.png" alt="Book Image" style="width:300px;height:auto;">
-  </a>
+
 
   <!-- Text content with description -->
   <h2>Design Patterns for AI Agents: A Structured Approach to Building Robust and Intelligent Systems</h2>
@@ -41,6 +38,9 @@ tr:nth-child(even) {
     Based on my own experience learning and working with them, I wanted to create something
     that makes these concepts clearer and more accessible.
   </p>
-  <img src="/images/book.png">
+  <!-- Clickable image that links to another page -->
+  <a href="https://a.co/d/gB94RwS" target="_blank">
+    <img src="/images/book.png" alt="Book Image" >
+  </a>
 
 </body>
