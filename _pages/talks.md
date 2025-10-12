@@ -40,6 +40,8 @@ tr:nth-child(even) {
   </tr>
   
 </table>
+<img src="/images/talk2.jpg" alt="My Photo">
+<img src="/images/talk1.jpg" alt="My Photo">
 </body>
 
 
