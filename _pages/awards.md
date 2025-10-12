@@ -74,10 +74,10 @@ tr:nth-child(even) {
   
 <table>
   <tr>
-    <td>IEEE Access (impact factor 3.9)</td>
+    <td>NeurIPS Aug, 2025</td>
   </tr>
   <tr>
-    <td>Artificial Intelligence and Applications (eISSN: 2811-0854)</td>
+    <td>ICLR Jan,2025</td>
   </tr>
 </table>
 
@@ -86,7 +86,7 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <td>An Efficient Framework for Anticipating Bankruptcy in Corporate Finances for informatica.si (1 Paper)</td>
+    <td> N/A </td>
   </tr>
   
 </table>
