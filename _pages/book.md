@@ -29,5 +29,17 @@ tr:nth-child(even) {
 
 
 <body>
+<!-- Clickable image that links to another page -->
+  <a href="https://www.example.com" target="_blank">
+    <img src="images/book.png/300x200" alt="Example Image" style="width:300px;height:auto;">
+  </a>
+
+  <!-- Text content with description -->
+  <h2>Design Patterns for AI Agents: A Structured Approach to Building Robust and Intelligent Systems</h2>
+  <p>
+    I wrote this book because I noticed a gap in how beginners understand AI agents.
+    Based on my own experience learning and working with them, I wanted to create something
+    that makes these concepts clearer and more accessible.
+  </p>
 
 </body>
