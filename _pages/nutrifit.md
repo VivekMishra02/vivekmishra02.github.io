@@ -2,7 +2,7 @@
 layout: archive
 title: "Nutrifit"
 permalink: /nutrifit/
-author_profile: false
+author_profile: true
 ---
 
 # Vivek Mishra – AI & ML Professional Portfolio
