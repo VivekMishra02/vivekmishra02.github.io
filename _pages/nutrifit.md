@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Nutrifit"
+permalink: /nutrifit/
+author_profile: true
+---
+
 # Vivek Mishra – AI & ML Professional Portfolio
 
 ## Professional Bio
