@@ -42,7 +42,7 @@ The final chatbot delivers **personalized exercise and nutrition guidance** thro
 You can try it here:  
 👉 [NutriFit AI Chatbot](https://www.chatbase.co/5IkWfVGy4dXGuvJ5kjU-Z/help)
 
-[![Download AI Lab Presentation](https://img.shields.io/badge/Download-PPTX-blue?style=for-the-badge)](AI_lab_PPT.pptx)
+[![Download AI Lab Presentation](https://img.shields.io/badge/Download-PPTX-blue?style=for-the-badge)](../files/AI_lab_PPT.pptx)
 
 
 ---
