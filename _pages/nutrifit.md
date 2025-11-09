@@ -55,5 +55,41 @@ This artifact represents my growth as a developer who values **practical, user-f
 
 ---
 
+---
+
+## Artifact 2: AI & ML Concepts – Interactive Prezi Presentation
+
+### Overview
+This artifact showcases my ability to communicate complex AI and Machine Learning concepts through clear visual storytelling. The presentation was designed using **Prezi**, focusing on how AI and ML are shaping modern industries, influencing daily life, and creating new opportunities for innovation.
+
+### Purpose
+The goal was to explain AI/ML fundamentals in an engaging, non-technical way that helps audiences understand both the technology and its real-world impact. This artifact highlights my skill in simplifying complex topics for different audiences.
+
+### Tools and Technologies
+- **Prezi** – for dynamic, interactive presentation design  
+- **AI/ML content research** – curated from class discussions and readings  
+- **Graphics and structure** – designed to improve comprehension and engagement  
+
+### Key Skills Demonstrated
+- Visual communication of technical ideas  
+- Storytelling with data and examples  
+- Audience-focused presentation design  
+- Research and synthesis of AI/ML topics  
+
+### Link to Artifact
+🎯 **View my interactive Prezi presentation here:**  
+[https://prezi.com/view/fwPbid1ydSIfbhe6jQ8t/?referral_token=8MBw27lnB3FN](https://prezi.com/view/fwPbid1ydSIfbhe6jQ8t/?referral_token=8MBw27lnB3FN)
+
+If you’d like to open it directly from the portfolio page, here’s an embedded preview:
+
+<iframe src="https://prezi.com/view/fwPbid1ydSIfbhe6jQ8t/?referral_token=8MBw27lnB3FN" width="800" height="500" allowfullscreen></iframe>
+
+---
+
+## Reflection
+Creating this Prezi helped me strengthen my communication and visualization skills—two critical areas for any AI/ML professional. It taught me how to translate complex algorithms and data-driven ideas into visuals and language that anyone can understand.  
+This project complements my earlier artifact (NutriFit AI) by showing a different strength: not building an AI model, but explaining it clearly and persuasively to others. It reflects my ability to connect technical understanding with storytelling and user engagement.
+
+
 ## About This Portfolio
 This portfolio highlights my ongoing journey in **AI and Machine Learning**, showcasing key projects and reflections from my coursework and professional experiences. Each artifact reflects specific skills and milestones in applying AI tools to solve real-world problems.
