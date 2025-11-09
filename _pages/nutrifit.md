@@ -76,13 +76,13 @@ The goal was to explain AI/ML fundamentals in an engaging, non-technical way tha
 - Audience-focused presentation design  
 - Research and synthesis of AI/ML topics  
 
-### Link to Artifact
-🎯 **View my interactive Prezi presentation here:**  
-[https://prezi.com/view/fwPbid1ydSIfbhe6jQ8t/?referral_token=8MBw27lnB3FN](https://prezi.com/view/fwPbid1ydSIfbhe6jQ8t/?referral_token=8MBw27lnB3FN)
 
-If you’d like to open it directly from the portfolio page, here’s an embedded preview:
+### View the Presentation
+<a href="https://prezi.com/view/fwPbid1ydSIfbhe6jQ8t/?referral_token=8MBw27lnB3FN" target="_blank" rel="noopener noreferrer">
+  <img src="images/prezi-thumbnail.png" alt="AI & ML Prezi Presentation" width="600">
+</a>
 
-<iframe src="https://prezi.com/view/fwPbid1ydSIfbhe6jQ8t/?referral_token=8MBw27lnB3FN" width="800" height="500" allowfullscreen></iframe>
+
 
 ---
 
