@@ -79,7 +79,7 @@ The goal was to explain AI/ML fundamentals in an engaging, non-technical way tha
 
 ### View the Presentation
 <a href="https://prezi.com/view/fwPbid1ydSIfbhe6jQ8t/?referral_token=8MBw27lnB3FN" target="_blank" rel="noopener noreferrer">
-  <img src="images/prezi-thumbnail.png" alt="AI & ML Prezi Presentation" width="600">
+  <img src="/images/prezi-thumbnail.png" alt="AI & ML Prezi Presentation" width="600">
 </a>
 
 
