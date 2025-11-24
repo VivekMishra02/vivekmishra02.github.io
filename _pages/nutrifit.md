@@ -17,6 +17,17 @@ I bring a mix of technical depth and human-centered thinking. I can design, trai
 
 ---
 
+## Table of Contents
+
+1. [Artifact 1: NutriFit AI – Smart Fitness and Nutrition Chatbot](#artifact-1-nutrifit-ai--smart-fitness-and-nutrition-chatbot)
+2. [Artifact 2: AI & ML Concepts – Interactive Prezi Presentation](#artifact-2-ai--ml-concepts--interactive-prezi-presentation)
+3. [Artifact 3: Machine Learning Training Methods – Interactive Chatbot Session](#artifact-3-machine-learning-training-methods--interactive-chatbot-session)
+4. [Artifact 4: Reflection on Communication and Clarity in Team Collaboration](#artifact-4-reflection-on-communication-and-clarity-in-team-collaboration)
+
+---
+
+---
+
 ## Artifact 1: NutriFit AI – Smart Fitness and Nutrition Chatbot
 
 ### Overview
@@ -126,6 +137,42 @@ This activity pushed me to slow down and think more deliberately about how diffe
 What stood out most was how effective this format was for learning. The back-and-forth dialogue made the material feel practical instead of abstract, and the immediate feedback helped me correct misconceptions before they became habits.  
 This artifact represents my growth in using AI tools not just for building systems—but also for learning, analyzing problems, and improving my own understanding of machine learning.
 
+
+---
+
+## Artifact 4: Reflection on Communication and Clarity in Team Collaboration
+
+### Overview
+This artifact is based on a reflective assignment focused on the importance of clear communication in collaborative work. The reflection draws on two Biblical passages—1 Corinthians 14:8–9 and Genesis 11:6–7—to highlight how clarity, unity, and shared understanding are essential for effective teamwork.  
+Using these examples, I examined my own communication habits and identified areas for improvement, especially in technical or fast-paced project environments.
+
+### Purpose
+The purpose of this reflection was to evaluate how my communication style affects team effectiveness. It pushed me to think about how unclear updates, missing context, or assumptions can disrupt progress. The assignment required connecting personal experiences, professional communication principles, and deeper insights from the passages studied.
+
+### Key Skills Demonstrated
+- Critical self-assessment and personal development  
+- Ability to connect technical communication challenges with broader leadership principles  
+- Reflective writing grounded in real project experiences  
+- Understanding the link between clarity, teamwork, and project success  
+- Applying lessons learned to future professional practice  
+
+### What This Artifact Shows
+This artifact highlights a completely different strength than my previous portfolio pieces:   
+- **Artifact 4** demonstrates **self-reflection, communication awareness, and leadership maturity**—skills that are crucial in any technical or AI-focused role.
+
+### Summary of the Reflection
+In this assignment, I looked closely at how I communicate during team projects. I recognized a pattern: I tend to move fast, assume others understand my steps, and sometimes provide updates that are too technical or incomplete. This can create misalignment, just like the examples highlighted in the passages.  
+I also reflected on a time when unclear communication extended a project timeline because teammates misunderstood dependencies and began modifying code prematurely.  
+The reflection helped me identify several improvements:  
+- Make updates more structured and concise  
+- Check for understanding rather than assuming alignment  
+- Offer full context instead of partial instructions  
+- Tailor explanations to the audience  
+- Summarize decisions to ensure shared interpretation  
+
+### Reflection
+Completing this reflection helped me see how communication is not just about sharing information—it’s about ensuring others clearly understand the message. In technical fields, poor communication can slow progress just as much as technical issues.  
+This artifact represents my commitment to becoming a more intentional communicator who contributes to alignment, clarity, and collaboration in team settings.
 
 
 
