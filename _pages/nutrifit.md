@@ -174,7 +174,51 @@ The reflection helped me identify several improvements:
 Completing this reflection helped me see how communication is not just about sharing information—it’s about ensuring others clearly understand the message. In technical fields, poor communication can slow progress just as much as technical issues.  
 This artifact represents my commitment to becoming a more intentional communicator who contributes to alignment, clarity, and collaboration in team settings.
 
+---
 
+## Artifact 5: AI Ethics and Bias – Critical Analysis of the Amazon AI Recruiting Tool
+
+### Overview
+This artifact is based on a critical thinking assignment focused on **AI ethics**, using the Amazon AI Recruiting Tool bias incident (2018) as a case study. Amazon developed an experimental AI system to automate résumé screening, but the model learned biased patterns from historical hiring data that favored male candidates. As a result, the system penalized résumés associated with women and failed to generalize fairly across applicants. Amazon ultimately discontinued the tool after identifying persistent gender bias.
+
+This case highlights the ethical risks of deploying AI in high-stakes, human-centered decisions.
+
+### Purpose
+The purpose of this artifact was to critically analyze ethical challenges in AI systems and move beyond surface-level technical explanations. The assignment required identifying key ethical issues, reflecting on assumptions, and proposing responsible solutions grounded in fairness, transparency, and accountability.
+
+### Key Ethical Issues Analyzed
+
+**1. Training Data Bias**  
+The primary failure of the system stemmed from biased historical hiring data. What initially appeared to be a dataset issue revealed deeper, systemic inequality embedded in past human decisions. This demonstrated how AI can inherit and amplify existing discrimination when trained on unbalanced data.
+
+**2. Lack of Transparency in Decision-Making**  
+The recruiting team could not clearly interpret how the model evaluated résumé features. This lack of explainability made it difficult to detect harmful behavior early and raised concerns about accountability when AI systems influence life-changing decisions such as employment.
+
+**3. Overreliance on Automation in High-Stakes Decisions**  
+The attempt to fully automate résumé screening showed the risk of treating AI outputs as authoritative. Overreliance on algorithmic decisions can reduce human judgment, empathy, and critical oversight in sensitive domains.
+
+### Proposed Solutions
+- Use balanced and representative training datasets with regular bias audits  
+- Apply fairness-aware and explainable AI techniques  
+- Require ethical review before deploying AI systems in hiring  
+- Maintain human-in-the-loop decision-making rather than full automation  
+- Clearly document model behavior, limitations, and evaluation results  
+
+### Key Skills Demonstrated
+- Ethical reasoning in AI and ML systems  
+- Critical analysis of real-world AI failures  
+- Ability to question assumptions behind algorithmic objectivity  
+- Understanding of fairness, transparency, and accountability  
+- Reflective thinking informed by both technical and societal perspectives  
+
+### What This Artifact Shows
+This artifact demonstrates my ability to evaluate AI systems not only on performance, but on **ethical impact**. It complements my earlier technical projects by showing that I understand the broader responsibilities involved in deploying AI in real-world contexts.
+
+### Reflection
+This assignment shifted my perspective on AI ethics from viewing biased outcomes as technical mistakes to recognizing them as reflections of deeper societal issues. I initially assumed that replacing human decision-making with AI would lead to more objective results. Through this analysis, I realized that AI can actually magnify bias unless data, design, and oversight are handled carefully.  
+Going forward, this experience will influence me to approach AI development with stronger ethical awareness, critical evaluation of data sources, and an emphasis on human accountability in sensitive applications. This artifact represents my growth in thinking about AI not just as a tool, but as a responsibility.
+
+---
 
 ## About This Portfolio
 This portfolio highlights my ongoing journey in **AI and Machine Learning**, showcasing key projects and reflections from my coursework and professional experiences. Each artifact reflects specific skills and milestones in applying AI tools to solve real-world problems.
