@@ -42,12 +42,12 @@ Vivek Mishra(Fellow at BCS and IEEE Senior Member) is a technology professional 
 
 <tr>
     <td style="white-space: nowrap;">June 2026</td>
-    <td>Reviewed NuerIPS main conference <a href="https://drive.google.com/drive/folders/1FyR_rcIrx2GgY7TdImIouKB_LYA38RH0?usp=drive_link" target="_blank">  ICLR </a> </td>
+    <td>Reviewed NuerIPS main conference <a href="https://drive.google.com/drive/folders/1FyR_rcIrx2GgY7TdImIouKB_LYA38RH0?usp=drive_link" target="_blank">  NeurIPS </a> </td>
   </tr>
 
 <tr>
     <td style="white-space: nowrap;">May 2026</td>
-    <td>Awarded Fellowship at BCS (FBCS) <a href="https://lnkd.in/p/ew-huXGB" target="_blank">  ICLR </a> </td>
+    <td>Awarded Fellowship at BCS (FBCS) <a href="https://lnkd.in/p/ew-huXGB" target="_blank">  FBCS </a> </td>
   </tr>
 
 <tr>
