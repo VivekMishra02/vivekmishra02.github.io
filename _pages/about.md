@@ -46,6 +46,11 @@ Vivek Mishra(Fellow at BCS and IEEE Senior Member) is a technology professional 
   </tr>
 
 <tr>
+    <td style="white-space: nowrap;">May 2026</td>
+    <td>Awarded Fellowship at BCS (FBCS) <a href="https://lnkd.in/p/ew-huXGB" target="_blank">  ICLR </a> </td>
+  </tr>
+
+<tr>
     <td style="white-space: nowrap;">Sep 2025</td>
     <td>Quoted by award winning journalist<strong> Mary K. Pratt in TechTarget </strong> <a href="https://www.techtarget.com/sustainability/feature/Generative-AIs-sustainability-problems-explained" target="_blank">  Generative AI's environmental impact explained </a> </td>
   </tr>
