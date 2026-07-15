@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vivek Kumar Mishra"
+title                    : "Vivek Mishra"
 title_separator          : "-"
 name                     : &name "Vivek Mishra"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ social:
 
 # Site Author
 author:
-  name             : "Vivek Kumar Mishra"
+  name             : "Vivek Mishra"
   avatar           : "vivek_headShot.jpeg"
   bio              : 
   location         : "Philadelphia, PA"
