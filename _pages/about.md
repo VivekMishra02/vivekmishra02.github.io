@@ -31,7 +31,7 @@ tr:nth-child(even) {
 
 
 <p align="justify">
-Vivek Mishra(IEEE Senior Member) is a technology professional and Associate Software Engineer at JPMorgan Chase & Co., specializing in backend development, artificial intelligence, and applied research. At JPMorgan, he works on implementing scalable solutions in finance, leveraging AI to optimize systems and improve user experiences. His research includes AI-driven projects like optimizing California High-Speed Rail station placement for economic growth and using machine learning to forecast commercial vehicle miles traveled (VMT) for sustainable transportation policies. With expertise in AI, backend technologies, and interdisciplinary research, Vivek bridges the gap between innovation and impactful real-world applications.
+Vivek Mishra(Fellow at BCS and IEEE Senior Member) is a technology professional who has worked as Senior Software Engineer at JPMorgan Chase & Co., specializing in backend development, artificial intelligence, and applied research. At JPMorgan, he worked on implementing scalable solutions in finance, leveraging AI to optimize systems and improve user experiences. His research includes AI-driven projects like optimizing California High-Speed Rail station placement for economic growth and using machine learning to forecast commercial vehicle miles traveled (VMT) for sustainable transportation policies. With expertise in AI, backend technologies, and interdisciplinary research, Vivek bridges the gap between innovation and impactful real-world applications.
 </p>
 
 
@@ -39,6 +39,11 @@ Vivek Mishra(IEEE Senior Member) is a technology professional and Associate Soft
 <h2> News </h2>
 
 <table>
+
+<tr>
+    <td style="white-space: nowrap;">June 2026</td>
+    <td>Reviewed NuerIPS main conference <a href="https://drive.google.com/drive/folders/1FyR_rcIrx2GgY7TdImIouKB_LYA38RH0?usp=drive_link" target="_blank">  ICLR </a> </td>
+  </tr>
 
 <tr>
     <td style="white-space: nowrap;">Sep 2025</td>
